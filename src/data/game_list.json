@@ -1,0 +1,15 @@
+{
+    "gamelist":[
+        {
+            "id": 1,
+            "img": "assets/images/game-list-1.svg",
+            "text": "Coin Master",
+            "deatilimg": "assets/images/coin-slider.png"
+        },
+        {
+            "id": 2,
+            "img": "assets/images/game-list-2.svg",
+            "text": "Coin Master"
+        }
+    ]
+}

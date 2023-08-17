@@ -1,0 +1,35 @@
+@media (max-width: 768px){
+    body{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    section:not(.slider-section) {
+        margin-top: 40px;
+    }
+    .heading {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .add-class {
+        height: 250px;
+    }
+    .artical-container {
+        flex-direction: column;
+    }
+    .artical-img,.artical-text {
+        width: 100%;
+    }
+    .artical-text {
+        padding: 20px;
+    }    
+    .about-img{
+        width: 100vw;
+        position: relative;
+    }
+}
