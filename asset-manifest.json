@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/CMMaster/static/css/main.809bbc6e.css",
-    "main.js": "/CMMaster/static/js/main.9c335b5f.js",
+    "main.js": "/CMMaster/static/js/main.0141471a.js",
     "static/js/787.39be72b8.chunk.js": "/CMMaster/static/js/787.39be72b8.chunk.js",
     "static/media/logo.svg": "/CMMaster/static/media/logo.7c6c52555bf2cef25b7c0bd3dbd0e77e.svg",
     "static/media/Uno_logo.png": "/CMMaster/static/media/Uno_logo.cc4463b24db1427b738a.png",
     "static/media/uno-re.png": "/CMMaster/static/media/uno-re.f981c6826b9ac1147571.png",
     "static/media/coin-spin-icon.svg": "/CMMaster/static/media/coin-spin-icon.c466a040755c9c5e2a522a377d55c4d6.svg",
     "static/media/coi.png": "/CMMaster/static/media/coi.9fe86fbe786727ceaa0f.png",
+    "static/media/Sudoku.jpg": "/CMMaster/static/media/Sudoku.c343eac032a9c92eb288.jpg",
     "static/media/coin2.png": "/CMMaster/static/media/coin2.81c18f6f7ced4461abba.png",
     "static/media/quiz-logo.png": "/CMMaster/static/media/quiz-logo.b80c96ba89943b4da737.png",
     "static/media/game-list-1.svg": "/CMMaster/static/media/game-list-1.ae1f568871b52df034e84a5f63b7b45f.svg",
+    "static/media/card.jpg": "/CMMaster/static/media/card.7176b70af704b1d130fd.jpg",
     "static/media/artical-1.jpg": "/CMMaster/static/media/artical-1.37ad9516a757757c1b1c.jpg",
     "static/media/Roboto-Medium.ttf": "/CMMaster/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Regular.ttf": "/CMMaster/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -28,11 +30,11 @@
     "index.html": "/CMMaster/index.html",
     "static/media/cpy-icon.svg": "/CMMaster/static/media/cpy-icon.e73b0396f4a0608f5c62db4b2fee13c3.svg",
     "main.809bbc6e.css.map": "/CMMaster/static/css/main.809bbc6e.css.map",
-    "main.9c335b5f.js.map": "/CMMaster/static/js/main.9c335b5f.js.map",
+    "main.0141471a.js.map": "/CMMaster/static/js/main.0141471a.js.map",
     "787.39be72b8.chunk.js.map": "/CMMaster/static/js/787.39be72b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.809bbc6e.css",
-    "static/js/main.9c335b5f.js"
+    "static/js/main.0141471a.js"
   ]
 }
