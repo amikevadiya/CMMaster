@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CMMaster/static/css/main.56f98877.css",
-    "main.js": "/CMMaster/static/js/main.43750922.js",
+    "main.css": "/CMMaster/static/css/main.b0b57c14.css",
+    "main.js": "/CMMaster/static/js/main.6fa6528f.js",
     "static/js/787.39be72b8.chunk.js": "/CMMaster/static/js/787.39be72b8.chunk.js",
     "static/media/logo.svg": "/CMMaster/static/media/logo.0b4e43f282fbabdaf4897447d45ec3a7.svg",
     "static/media/coi.png": "/CMMaster/static/media/coi.9fe86fbe786727ceaa0f.png",
@@ -24,12 +24,12 @@
     "static/media/nav-2.svg": "/CMMaster/static/media/nav-2.97ebb703ff9afc2be703d9848324f1e9.svg",
     "index.html": "/CMMaster/index.html",
     "static/media/cpy-icon.svg": "/CMMaster/static/media/cpy-icon.e73b0396f4a0608f5c62db4b2fee13c3.svg",
-    "main.56f98877.css.map": "/CMMaster/static/css/main.56f98877.css.map",
-    "main.43750922.js.map": "/CMMaster/static/js/main.43750922.js.map",
+    "main.b0b57c14.css.map": "/CMMaster/static/css/main.b0b57c14.css.map",
+    "main.6fa6528f.js.map": "/CMMaster/static/js/main.6fa6528f.js.map",
     "787.39be72b8.chunk.js.map": "/CMMaster/static/js/787.39be72b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56f98877.css",
-    "static/js/main.43750922.js"
+    "static/css/main.b0b57c14.css",
+    "static/js/main.6fa6528f.js"
   ]
 }
